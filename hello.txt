@@ -21,4 +21,5 @@ hello gxou hello world!
 hello gxou hello world!
 hello gxou hello world!
 hello gxou hello world!
-hello gxou hello world!master text text
+<<<<<<< HEAD
+hello gxou hello world!master text ttx
